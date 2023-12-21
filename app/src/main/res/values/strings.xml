@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">database</string>
+    <string name="Text">Nome:</string>
+    <string name="btnInvia">invia</string>
+    <string name="btnShow">show</string>
+    <string name="editText1"></string>
+    <string name="resultText"></string>
+</resources>
